@@ -1,0 +1,124 @@
+
+
+TEST.PAT
+========
+
+
+Bank 0  ROCK
+------------
+a  SOFT ROCK A
+b  SOFT ROCK B
+c  8 BEAT 1 A
+d  8 BEAT 1 B
+e  8 BEAT 2 A
+f  8 BEAT 2 B
+g  BALLAD 1 A
+h  BALLAD 1 B
+i  BALLAD 2 A
+j  BALLAD 2 B
+k  BALLAD 3 A
+l  BALLAD 3 B
+m  ROCK 1 A
+n  ROCK 1 B
+o  ROCK 2 A
+p  ROCK 2 B
+
+
+Bank 1  DISCO/HOUSE
+-------------------
+a  DISCO 1 A
+b  DISCO 1 B
+c  DISCO 2 A
+d  DISCO 2 B
+e  DISCO 3 A
+f  DISCO 3 B
+g  HOUSE 1 A
+h  HOUSE 1 B
+i  HOUSE 2 A
+j  HOUSE 2 B
+k  HOUSE 3 A
+l  HOUSE 3 B
+
+
+Bank 2  FUNK/HIP HOP
+--------------------
+a  FUNK 1 A
+b  FUNK 1 B
+c  FUNK 2 A
+d  FUNK 2 B
+e  FUNK 3 A
+f  FUNK 3 B
+g  FUNK 4 A
+h  FUNK 4 B
+i  HIP HOP 1 A
+j  HIP HOP 1 B
+k  HIP HOP 2 A
+l  HIP HOP 2 B
+m  HIP HOP 3 A
+n  HIP HOP 3 B
+o  HIP HOP 4 A
+p  HIP HOP 4 B
+q  HIP HOP 5 A
+r  HIP HOP 5 B
+
+Bank 3 DANCE
+------------
+a  DRUM'N'BASS 1 A
+b  DRUM'N'BASS 1 B
+c  DRUM'N'BASS 2 A
+d  DRUM'N'BASS 2 B
+e  DUBSTEP A
+f  DUBSTEP B
+g  TRAP A
+h  TRAP B
+
+
+Bank 4  LATIN
+-------------
+a  SALSA A
+b  SALSA B
+c  BOSSA NOVA A
+d  BOSSA NOVA B
+e  CHA-CHA A
+f  CHA-CHA B
+g  MAMBO A
+h  MAMBO B
+i  SOCA A
+j  SOCA B
+
+
+Bank 8  ROCK FILL IN 1
+----------------------
+a  FILL IN 1
+b  FILL IN 2
+c  FILL IN 3
+d  FILL IN 4
+e  FILL IN 5
+f  FILL IN 6
+g  FILL IN 7
+h  FILL IN 8
+i  FILL IN 9
+j  FILL IN 10
+k  FILL IN 11
+l  FILL IN 12
+m  FILL IN 13
+n  FILL IN 14
+o  FILL IN 15
+p  FILL IN 16
+q  FILL IN 17
+r  FILL IN 18
+s  FILL IN 19
+t  FILL IN 20
+u  FILL IN 21
+v  FILL IN 22
+w  FILL IN 23
+x  FILL IN 24
+y  FILL IN 25
+z  FILL IN 26
+
+
+Bank 9  ROCK FILL IN 2
+----------------------
+a  FILL IN 27
+b  FILL IN 28
+

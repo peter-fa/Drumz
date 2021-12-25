@@ -1,0 +1,68 @@
+
+Drumz
+=====
+
+Drumz: Drum sequence generator for t2mf\n
+Version 0.01
+
+Usage: dz <pattern> < <patternfile> > <outfile>
+Usage: dz <pattern> <parameters> < <patternfile> > <outfile>
+
+Pattern: sequence (a - z, -, 0 - 9)  eg. abc-2daf
+
+Optional parameters:
+-t   Tempo (30 - 399)  eg. -t120
+-ts  Time Signature  eg. -ts44 or -ts4
+-p   Midi program (0 - 127)  eg. -p0
+-c   Midi channel (1 - 16)  eg. -c10
+-sw  Swing (0 - 6)  eg. -sw1
+-k   Drum kit  (0 - 127)  eg. -k1
+-v   Midi velocities (0 - 3)  eg. -v0
+
+Sequence:
+a - z  Patterns
+0 - 9  Pattern bank
+-      No pattern (silence)
+
+
+Time signatures
+---------------
+-ts44  4/4
+-ts4   4/4
+-ts34  3/4
+-ts3   3/4
+-ts68  6/8
+
+
+Swing
+-----
+-sw0  swing 50%
+-sw1  swing 53%
+-sw2  swing 56%
+-sw3  swing 59%
+-sw4  swing 62%
+-sw5  swing 64%
+-sw6  swing 66%
+
+
+Drum kits
+---------
+-k0   >= note 35
+-k1   >= note 36
+-k32  General midi
+-k33  General midi - side stick
+-k34  General midi - hand clap
+-k35  General midi - electric snare
+-k64  Latin - General midi - w Maracas
+-k65  Latin - General midi - w Cabasa
+-k66  Latin - General midi - w Maracas, Woodblock
+-k67  Latin - General midi - w Cabasa, Woodblock
+-k68  Latin - General midi - w Maracas, Claves
+-k69  Latin - General midi - w Cabasa, Claves
+
+Velocities
+----------
+-v0  Electronic
+-v1  Rock
+-v2  Funk
+-v3  Jazz
